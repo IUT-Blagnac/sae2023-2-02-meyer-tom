@@ -1,4 +1,4 @@
-package exercice.simplicite;
+package exercice.simpliciteMeilleur;
 
 import java.util.*;
 
