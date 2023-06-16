@@ -2,7 +2,7 @@
 
 ## Préliminaire
 
-Non-respect de la nomenclature précise (-1). Dans les paramètres de la fonction solution, on a : **`(String texte, List<String> ordre)`.**Or, il est attendu : **`(String str, List<Character> ordre)`**
+Non-respect de la nomenclature précise (-1). Dans les paramètres de la fonction solution, on a : **`(String texte, List<String> ordre)`.** Or, il est attendu : **`(String str, List<Character> ordre)`**
 
 ## Simplicité
 
