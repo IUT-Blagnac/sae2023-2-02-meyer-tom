@@ -171,19 +171,20 @@ Vous utiliserez le dépôt initial qui vous aura été attribué via classroom p
 
 === Phase 1 (deadline : **samedi 3 juin 2023** à minuit)
 
-* [ ] Votre ou vos algorithmes en précisant les éléments du tableau ci-dessous :
+* [x] Votre ou vos algorithmes en précisant les éléments du tableau ci-dessous :
 
 [options="header"]
 |==========================================================================
-| #    | lien                                                     | langage  | catégorie  |  Type
-| 1    | link:src/main/java/exercice/Exercice1.java[meilleur java]| Java     | Simplicité | Meilleur
-| 2    | link:src/main/java/exercice/Exercice2.java[pire java]    | Java     | Efficacité | Pire
-| ...  | ...                                                      | ...      | ...      
+| # | lien | langage | catégorie |  Type
+| 1 | link:src/main/java/exercice/EfficaciteMeilleur.java[Efficacité meilleur java]| Java | Efficacité | Meilleur
+| 2 | link:src/main/java/exercice/EfficacitePire.java[Efficacité pire java] | Java | Efficacité | Pire
+| 3 | link:src/main/java/exercice/SimpliciteMeilleur.java[Simplicité meilleur java] | Java | Simplicité | Meilleur
+| 4 | link:src/main/java/exercice/SimplicitePire.java[Simplicité pire java] | Java | Simplicité | Pire 
 |==========================================================================
 
 === Phase 2 (deadline : **vendredi 16 juin 2023** à minuit)
 
-* [ ] Le rapport d'évaluation des algorithmes (e.g., asciidoc ou PDF). Pour chaque catégorie, vous devrez désigner qui est 1er, 2ème, 3ème, ... (avec possibilité d’ex-aequo si le hasard vous a attribué des algos similaires). Il doit se trouver dans le répertoire `rapport` de votre dépôt.
+* [x] Le rapport d'évaluation des algorithmes (e.g., asciidoc ou PDF). Pour chaque catégorie, vous devrez désigner qui est 1er, 2ème, 3ème, ... (avec possibilité d’ex-aequo si le hasard vous a attribué des algos similaires). Il doit se trouver dans le répertoire `rapport` de votre dépôt.
 * [ ] Les codes de test, d'évaluation ou de mesure. Ils doivent se trouver dans le répertoire `analyse` de votre dépôt.
 * [ ] Les références des librairies/outils utilisés (pour ceux non fournis). Elles doivent être listées dans la sous-section (Références) ci-dessous.
 * [ ] La chaîne de compilation et exécutable, ou paquetage selon les standards du langage (comment exécuter vos codes d'évaluation). Cette description doit se trouver dans vos rapports.
